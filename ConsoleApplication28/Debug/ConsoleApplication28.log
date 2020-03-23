@@ -1,0 +1,3 @@
+﻿  ConsoleApplication28.cpp
+C:\Users\model\OneDrive\Masaüstü\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(15,9): warning C4101:  'j': yerel değişken başvurusu kaldırıldı
+  ConsoleApplication28.vcxproj -> C:\Users\model\OneDrive\Masaüstü\ConsoleApplication28\Debug\ConsoleApplication28.exe
